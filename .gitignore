@@ -5,3 +5,4 @@
 *.pyc
 *.egg
 *__pycache__
+deprecated
